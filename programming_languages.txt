@@ -1,0 +1,3 @@
+Bakainkorp: C++, Python
+Sjku1: C++, Javascript 
+Shadow12ac: C++, React.js
