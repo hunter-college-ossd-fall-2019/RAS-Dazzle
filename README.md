@@ -1,6 +1,6 @@
 # RAS-Dazzle
 
-shadow1ac: Maintainer
+shadow12ac: Maintainer
 
 sjku1
 
