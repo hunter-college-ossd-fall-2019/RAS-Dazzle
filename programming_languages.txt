@@ -1,0 +1,3 @@
+Bakainkorp: C++, Python, C#, Java
+Sjku1: C++, Javascript, Lisp, Postgresql  
+Shadow12ac: C++, React, .js, Python
