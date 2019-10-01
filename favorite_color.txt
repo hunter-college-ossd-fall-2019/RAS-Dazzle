@@ -1,5 +1,5 @@
 Bakainkorp: blue
 
-shadow12ac: 
+shadow12ac: red
 
-sjku1: 
+sjku1: blue
